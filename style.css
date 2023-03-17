@@ -32,7 +32,7 @@
 }
 
 
-img.product-img {
+img#image {
     max-width: 75px;
     height: auto;
     background: #fff;
